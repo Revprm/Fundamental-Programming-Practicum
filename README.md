@@ -1,4 +1,4 @@
-# Fundamental-Programming-Practicum
+# Fundamental Programming Practicum
 Contains All My Source Code in Solving Fundamental Programming Practicum
 - Practicum 1 -> If else or Switch Case Implementation
 - Practicum 2 -> Loop, Array and String Implementation
